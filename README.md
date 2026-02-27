@@ -102,6 +102,16 @@ if (existing) {
   cartList.push({ ...product, qty: 1 });
 }
 ```
+## video
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/70d219f8-366c-446a-b4a3-4532140b9ffe
+
 
 ---
 
